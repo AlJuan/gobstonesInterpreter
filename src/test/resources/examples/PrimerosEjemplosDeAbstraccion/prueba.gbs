@@ -1,0 +1,17 @@
+program
+{
+	{- 
+		Este es un comentario
+	-}
+	repeat(3){
+		--Este es otro comentario
+		Mover(Este); Poner(Rojo);
+		Mover(Oeste); Poner(Negro);
+		Mover(Norte)
+		
+	}
+	Mover(Sur);Mover(Sur); Sacar(Negro);
+	
+	
+ 
+}
